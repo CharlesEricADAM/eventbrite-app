@@ -25,4 +25,4 @@ $ rails db:migrate
 $ rails server
 ```
 
-Alternatively, the website has also been pushed on Heroku
+Alternatively, the website has also been pushed on Heroku: https://eventb-app.herokuapp.com/
